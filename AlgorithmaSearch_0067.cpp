@@ -21,5 +21,8 @@ void input()
     cout << "\n---------------------\n";
     cout << " Enter elements array \n"; 
     cout << "----------------------\n";
-    for 
+    for (i = 0; i < n; i++)
+    {
+        
+    }
 }
