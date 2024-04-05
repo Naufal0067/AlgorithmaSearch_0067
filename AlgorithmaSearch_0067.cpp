@@ -20,4 +20,6 @@ void input()
     // Accept array elements
     cout << "\n---------------------\n";
     cout << " Enter elements array \n"; 
+    cout << "----------------------\n";
+    for 
 }
