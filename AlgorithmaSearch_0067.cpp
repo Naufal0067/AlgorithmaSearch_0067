@@ -7,5 +7,5 @@ int i;       // Index of array element
 
 void input()
 {
-    
+    while (true)
 }
